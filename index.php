@@ -2,7 +2,9 @@
 <html>
     
 <head>
-    
+<title>TodoGaming</title>
+<link rel="shortcut icon"
+ href="http://i.imgur.com/NsViUiI.png" />    
 <style>
 
 ul {
@@ -34,7 +36,7 @@ li a {
 
 li a:hover {
     background-color: #000;
-} 
+}
 
 .active {
     background-color: #0A3D11;
