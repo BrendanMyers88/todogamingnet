@@ -2,9 +2,9 @@
 <html>
     
 <head>
-<title>Video Games are Fun!</title>
+<title>TodoGaming</title>
 <link rel="shortcut icon"
- href="http://i.imgur.com/NsViUiI.png" />    
+ href="hhttp://i.imgur.com/aw1dlQk.png" />   
 <style>
 
 ul {
