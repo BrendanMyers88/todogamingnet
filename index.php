@@ -4,7 +4,7 @@
 <head>
 <title>TodoGaming</title>
 <link rel="shortcut icon"
- href="hhttp://i.imgur.com/aw1dlQk.png" />   
+ href="http://i.imgur.com/aw1dlQk.png" />   
 <style>
 
 ul {
